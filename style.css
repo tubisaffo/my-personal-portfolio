@@ -1,0 +1,52 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            border-radius: 50%;
+            margin-top: 20px;
+        }
+        .about {
+            padding: 20px;
+            background-color: #fff;
+            margin-top: 20px;
+            text-align: center;
+        }
+        #Hobbies {
+            padding: 20px;
+            background-color: #fff;
+            margin-top: 20px;
+            text-align: center;
+        }
+        #Spirit-animal {
+            padding: 20px;
+            background-color: #fff;
+            margin-top: 20px;
+            text-align: center;
+        }
+        ol {
+            list-style-type: none;
+            padding: 0;
+        }
+        ol li {
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        h2 {
+            color: #333;
+        }
